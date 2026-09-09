@@ -9,8 +9,6 @@ public class LearningApplication {
 	public static void main(String[] args) {
 		System.out.println("main class started");
 		System.out.println("changes for CI pipeline checking");
-		System.out.println("changes for fwjh checking");
-
 		SpringApplication.run(LearningApplication.class, args);
 	}
 
