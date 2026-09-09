@@ -8,6 +8,7 @@ public class LearningApplication {
 
 	public static void main(String[] args) {
 		System.out.println("main class started");
+		System.out.println("changes for CI pipeline");
 		SpringApplication.run(LearningApplication.class, args);
 	}
 
